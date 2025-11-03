@@ -51,4 +51,4 @@ credit_card_default_prediction/
 3. All results will display in notebook outputs
 
 ## 📌 Author
-Created by [Your Name] as part of machine learning portfolio.
+Created by GeethaThimmaraju as part of machine learning portfolio.
